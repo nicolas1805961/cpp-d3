@@ -1,0 +1,3 @@
+The logger class manage all the printing. The class handles multiple logging levels: INFO and ERROR
+The rationale class designs rationale numbers and overload several operators
+The Vector class implement several operator overloading regarding cartesian vector.
